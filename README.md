@@ -70,6 +70,8 @@ Run the Jupyter Notebook:
 jupyter notebook main.ipynb
 ```
 
+Note: To export animations, you will also need [FFmpeg](https://ffmpeg.org/download.html) installed and available in your PATH.
+
 ## Documentation  
 The full report is provided in `/docs/Numerically_Solving_the_Schrodinger_Equation.pdf`, covering methods, theory, and results in detail.  
 
