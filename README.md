@@ -78,6 +78,3 @@ Educational visualisation project (completed as part of a group).
 Future improvements could include 2D solvers, more complex potentials, or GPU acceleration.  
 
 ---
-
-### Short GitHub Description  
-Numerical solver for the Schrödinger equation (1D and 3D) using finite difference and Crank–Nicolson methods, with visualisations and example quantum systems.
